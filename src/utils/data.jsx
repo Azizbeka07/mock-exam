@@ -5,7 +5,7 @@ export const cardData = [
         id: 0,
         title: "Listening",
         icon: <Icons.EarphoneIcon/>,
-        procress: 100,
+        procress: 36,
     },
     {
         id: 1,
@@ -23,6 +23,6 @@ export const cardData = [
         id: 3,
         title: "Writing",
         icon: <Icons.WritingIcon/>,
-        procress: 65,
+        procress: 48,
     },
 ];

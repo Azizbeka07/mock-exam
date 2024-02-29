@@ -12,7 +12,7 @@ const MockTest = () => {
           </h2>
           <div className="bg-white p-8 rounded-2xl flex-col grid gap-10">
             <h3 className="font-bold text-2xl">IELTS - Mock test 1</h3>
-            <div className="flex gap-5">
+            <div className="flex flex-wrap items-center justify-center gap-5">
               {cardData.map((el) => {
                 return (
                   <div
